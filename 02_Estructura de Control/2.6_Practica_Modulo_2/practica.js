@@ -1,4 +1,4 @@
-// if/else/else if/ternaria
+// if/else/else if
 
 // 1. Imprime por consola tu nombre si una variable toma su valor
 
@@ -16,6 +16,6 @@
 
 // 7. Usa un switch para imprimir un mensaje de saludo diferente dependiendo del idioma
 
-// 8. Usa un switch para hacer de nuevo el ejercicio 6
+// 8. Usa un switch para hacer de nuevo el ejercicio 5
 
-// 9. Usa un switch para hacer de nuevo el ejercicio 7
+// 9. Usa un switch para hacer de nuevo el ejercicio 6
