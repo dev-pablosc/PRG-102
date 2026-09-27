@@ -1,6 +1,6 @@
 // Crear Array (2)
 
-// usando Corchetes[]
+// usando Corchetes[] ✅
 let numeros = [2, 5, 1, 0];
 console.log(numeros)
 console.table(numeros)
