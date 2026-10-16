@@ -8,3 +8,5 @@ prompt
 
 console.log(typeof '12')
 console.log(typeof parseInt('12'))
+
+console.error('mensj de error');
